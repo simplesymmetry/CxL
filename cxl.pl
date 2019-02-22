@@ -10,6 +10,7 @@ use warnings;
 
 my $script = $ARGV[1];
 my $fileName = $ARGV[0];
+my $resultDir = $ARGV[2];
 
 #==============================================================
 # Extraction and file directory management:
